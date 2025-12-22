@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "650081399600",
+    "project_id": "homecare-13579",
+    "storage_bucket": "homecare-13579.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650081399600:android:66bbe5e3f656d10e8b4ef5",
+        "android_client_info": {
+          "package_name": "com.example.home_care"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "650081399600-6tlds8dmmek7teva9aussgqgokgkh8oi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCbJqPpqPAAtJobiT5eWjFFVPluTk3qTiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "650081399600-6tlds8dmmek7teva9aussgqgokgkh8oi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
